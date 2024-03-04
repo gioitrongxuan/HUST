@@ -1,0 +1,7 @@
+;/*FB_PKG_DELIM*/
+
+__d("GroupsCometAlbumsRootQueryContainerQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5137754229685114"}),null);
+__d("GroupsCometAlbumsRootQueryContainerQuery$Parameters",["GroupsCometAlbumsRootQueryContainerQuery_facebookRelayOperation"],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:b("GroupsCometAlbumsRootQueryContainerQuery_facebookRelayOperation"),metadata:{},name:"GroupsCometAlbumsRootQueryContainerQuery",operationKind:"query",text:null}};e.exports=a}),null);
+__d("GroupsCometAlbumsRootQueryVariables",[],(function(a,b,c,d,e,f){"use strict";a=8;f.count=a}),66);
+__d("GroupsCometAlbumsRoot.entrypoint",["GroupsCometAlbumsRootQueryContainerQuery$Parameters","GroupsCometAlbumsRootQueryVariables","JSResourceForInteraction","WebPixelRatio","buildGroupCometRootRoute.entrypoint"],(function(a,b,c,d,e,f,g){"use strict";a=c("buildGroupCometRootRoute.entrypoint")(c("JSResourceForInteraction")("GroupsCometAlbumsRoot.react").__setRef("GroupsCometAlbumsRoot.entrypoint"),function(a){a=a.routeProps;var c=a.extraSections;a=a.groupID;return{extraProps:{extraSections:c},queries:{queryReference:{parameters:b("GroupsCometAlbumsRootQueryContainerQuery$Parameters"),variables:babelHelpers["extends"]({groupID:a,scale:d("WebPixelRatio").get()},d("GroupsCometAlbumsRootQueryVariables"))}}}});g["default"]=a}),98);
+__d("GroupsCometComposerAnonymousPostConfirmationDialogQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5047776961927817"}),null);

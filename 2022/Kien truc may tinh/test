@@ -1,0 +1,10 @@
+.data 
+A: .word 10
+.text
+la $s6,A
+lui $s0,0x2AB9
+ori $s0,$s0,0x6F84
+sw $s0,0($s6)
+lbu $s1,2($s6)
+addi $s0,$s0,0x12345678
+

@@ -1,0 +1,21 @@
+.data
+ x: .word 0
+.text
+	
+tren:	li	$s1, 0XD3C4
+	li	$s2, 0X1436587A
+	xor 	$s3,$s1,$s2
+	la	$s0,x
+	sw	$s1,0($s0)
+	lw	$t1,0($s0)
+	ori	$t0,$t0,0
+	beq	$t0,$zero,duoi
+	j 	tren
+	nop
+	nop
+	nop
+	
+duoi:
+	nop
+	nop
+	nop

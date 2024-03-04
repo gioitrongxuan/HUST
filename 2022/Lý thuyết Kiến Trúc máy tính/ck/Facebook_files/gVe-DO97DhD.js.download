@@ -1,0 +1,6 @@
+;/*FB_PKG_DELIM*/
+
+__d("useIsCometEntityHeaderMobile",["useMatchViewport"],(function(a,b,c,d,e,f,g){"use strict";var h=700;function a(){return c("useMatchViewport")("max","width",h)}g["default"]=a}),98);
+__d("GroupCometCreationTooltipWrapper.react",["fbt","CometTooltip.react","GroupsCometCreatePreviewContext","react","stylex"],(function(a,b,c,d,e,f,g,h){"use strict";var i=d("react"),j=d("react").useContext,k={container:{cursor:"x1h6gzvc",pointerEvents:"x67bb7w",$$css:!0},wrapper:{flexDirection:"xdt5ytf",pointerEvents:"x47corl",$$css:!0}};function a(a){var b=a.children;a=a.xstyle;var d=h._("__JHASH__euOPr-ccO2a__JHASH__"),e=j(c("GroupsCometCreatePreviewContext"));e=e.isPreview;e=e===void 0?!1:e;return e?i.jsx("div",{className:c("stylex")(k.container,a),children:i.jsx(c("CometTooltip.react"),{align:"middle",tooltip:d,children:i.jsx("div",{className:"xdt5ytf x47corl",children:b})})}):b}a.displayName=a.name+" [from "+f.id+"]";g["default"]=a}),98);
+__d("GroupsCometAboutPanelSettingsContext",["react"],(function(a,b,c,d,e,f,g){"use strict";a=d("react");b=a.createContext({isIconFilled:!1});g["default"]=b}),98);
+__d("GroupsCometEditCommentSortOrderDialogQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="4851196854976098"}),null);
