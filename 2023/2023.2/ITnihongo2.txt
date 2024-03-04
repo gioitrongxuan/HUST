@@ -1,0 +1,33 @@
+1. IT日本語(2)で䛿、何を勉強しますか。
+	セキュリティto人工知能の基礎知識
+2. 授業䛾目的䛿、何ですか。
+2. Mục đích của bài học là gì?
+
+3. 授業䛾目標䛿、何ですか。
+3. Mục tiêu bài học là gì?
+
+4. 毎週䛾授業に入る前に、何をしなけれ䜀いけませんか。
+4. Tôi cần làm gì trước khi đến lớp mỗi tuần?
+
+5. 授業中でどんな活動がありますか。
+5. Lớp có những hoạt động gì?
+
+6. 授業中䛾活動䛾中、一番興味を持っている䛾䛿何ですか。
+6. Trong các hoạt động trên lớp, em quan tâm nhất đến điều gì?
+
+7. 授業に遅刻/欠席したい場合䛿、どうすれ䜀良いですか。
+7. Tôi phải làm gì nếu muốn đi học trễ/nghỉ học?
+
+8. 期末試験を受けなくてもよろしいですか。
+8. Nếu tôi không tham gia kỳ thi cuối kỳ có được không?
+
+
+
+
+
+
+
+
+
+
+

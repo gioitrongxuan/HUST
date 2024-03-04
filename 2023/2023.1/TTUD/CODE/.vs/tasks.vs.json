@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Week 1 - Store & Search String",
+      "appliesTo": "Week 1 - Store & Search String.cpp",
+      "type": "launch"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+vetor
+string
+set
+stack
+queue
+map:dictionary(key,value)
+priority queue

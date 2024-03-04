@@ -1,0 +1,4 @@
+- Transitive verbs: Ngoại động từ
+	- Receive
+- Intransitive verbs: Nội động từ
+	- Walkgi

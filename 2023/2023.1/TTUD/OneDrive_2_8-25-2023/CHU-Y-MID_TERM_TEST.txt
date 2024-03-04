@@ -1,0 +1,24 @@
+Chú ý thi giữa kỳ thuật toán ứng dụng:
+
+-Thời gian thi: 2h (với 4 bài)
+	-Kíp 3 từ 13h - 15h (có mặt tại phòng thi 12h45)
+	-Kíp 4 từ 15h15 - 17h15 (có mặt tại phòng thi lúc 15h)
+	
+-Các bạn được phân phòng thi ở giảng đường TC (mạng ở giảng đường TC rất tốt)
+    -Dùng máy tính cá nhân của các bạn
+	-Bố trí mang thêm ổ điện (nếu có) để chủ động
+
+-Ngôn ngữ lập trình: chỉ sử dụng C, C++, Java (KHÔNG sử dụng python)
+
+-Hệ thống có tính năng kiểm tra code trùng nhau, nên các bạn cần làm bài độc lập: học kỳ trước đã có 30 bạn bị hủy kết quả thi vì sao chép code của nhau, mình không muốn điều này lặp lại
+
+-Một số bộ dữ liệu test-case của các bài sẽ được gửi trước cho các bạn để các bạn có thể chạy và test thuật toán offline (trên máy tính cá nhân) trong TH hệ thống bị quá tải
+
+-Số lần submit tối đa cho mỗi bài là 10 lần (nên các bạn cần test chương trình kỹ rồi hãy submit)
+
+-Điện thoại di động sẽ được thu lại, để ở 1 chỗ (bàn giáo viên)
+
+-KHÔNG được sử dụng bất cứ phần mềm, web trao đổi thông tin (bị phát hiện sẽ bị hủy bài thi): FB messenger, Zalo, email ....
+
+-Quy cách đặt tên file chương trình: <MSSV>_BAIxxx.cpp, ví dụ 20211234_BAI2.cpp hoặc 20211234_BAI2.java (trong trường hợp có sự cố, sinh viên vẫn có thể nộp bài bằng cách gửi file chương trình qua email)
+ 

@@ -1,0 +1,3 @@
+-Thuật toán dekker(Phương pháp khóa trong)
+	+Dùng nhiều khóa
+-Phương pháp kiểm tra và xác lập(test and set)

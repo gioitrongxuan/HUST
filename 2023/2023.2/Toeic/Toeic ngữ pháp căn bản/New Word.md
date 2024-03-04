@@ -1,0 +1,28 @@
+-  Basic 
+	- Section 1
+		- Gratitude :Sự biết ơn
+		- Happiness : Hạnh phúc
+		- Kindness:  Lòng tốt
+		- an audience : khán giả
+		- a choir : dàn hợp xướng 
+		- a gang of robbers: một băng cướp 
+		- a troupe of actors: một nhóm diễn viên
+		- a brood of chickens: một đàn gà còn
+		- a school of fish: một đàn cá
+		- a flock of sheep: một bầy cừu
+		- a herd of cattle: một đàn gia súc
+		- a gaggle of geese: một bầy ngỗng
+		- a litter of cubs : một bầy hổ, gấu, sói...con
+		- a pod of whales : một đàn cá voi
+		- a pack of wolves : một bầy sói
+		- a pride of lions : một bầy sư tử 
+		- a swarm of bees: một đàn ong
+		- a deck of cards : một bô bài
+		- a collection of books : một bộ sưu tập sách
+		- a fleet of ships : một hạm đội tàu
+		- a set of stamps một bộ tem
+		- a flight of steps : các bậc cầu thang
+		- a bunch of keys: một chùm chìa khóa
+
+	- Section 2: 
+			- 
