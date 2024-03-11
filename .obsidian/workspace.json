@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "a7e7e5b64633c340",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bc0c7cd7e9e49b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe35213c3c6fb334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/2023.2/NMTTNT/Notes/W3.  Giải quyết vấn đề.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "523afb485b01e988",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2023/2023.2/NMTTNT/Bài giảng/L4-Tim kiem voi tri thu bo sung.pdf"
+              }
+            }
+          },
+          {
+            "id": "50ea2e93dbe9fe04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/2023.2/NMTTNT/Notes/Tìm kiếm với tri thức bổ xung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1124d02e1905483",
+    "type": "split",
+    "children": [
+      {
+        "id": "b23008f943411d15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd6838cac6d4ba6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f9455a41cb8c59a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a19c6891c67b5e01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50ed11e6c92868ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb2071e48639b5f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad9e3bcf22311468",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023/2023.2/NMTTNT/Bài giảng/L4-Tim kiem voi tri thu bo sung.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da09d1dfb74c3768",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023/2023.2/NMTTNT/Bài giảng/L4-Tim kiem voi tri thu bo sung.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b24cc846c7373c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e2921c15aaef7d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023/2023.2/NMTTNT/Bài giảng/L4-Tim kiem voi tri thu bo sung.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "523afb485b01e988",
+  "lastOpenFiles": [
+    "2023/2023.2/NMTTNT/Notes/Tìm kiếm với tri thức bổ xung.md",
+    "2023/2023.2/NMTTNT/Bài giảng/L4-Tim kiem voi tri thu bo sung.pdf",
+    "2023/2023.2/NMTTNT/Notes/W3.  Giải quyết vấn đề.md",
+    "2023/2023.2/CNWeb/Old version-PDFs/Lec 10.2-Docker + K8s +Serverless .pdf",
+    "2023/2023.2/NMTTNT/Bài giảng/L3-Tim-kiem-co-ban.pdf",
+    "2023/2023.2/NMTTNT/Bài giảng/L5 -Tim kiem doi khang.pdf",
+    "2023/2023.2/GR1/Bài viết trên nhóm initivate/Kafka.md",
+    "2023/2023.2/NMTTNT/Notes/Bài tập lớn.md",
+    "2023/2023.2/Pháp luật đại cương/Bài 2 Đặc trưng và hình thức của nhà nước.md",
+    "2023/2023.2/UIUX/Notes/Buổi 3. Con người và máy tính.md",
+    "2023/2023.2/UIUX/Bài giảng/UIUX03 Giao dien cua cac he tuong tac.pdf",
+    "2023/2023.2/GR1/Bài viết trên nhóm initivate/Tìm hiểu về kiến trúc serverless.md",
+    "2023/2023.2/GR1/Bài viết trên initivate.md",
+    "2023/2023.2/GR1/Bài viết trên nhóm initivate",
+    "2023/2023.2/CNWeb/Note/w3. Javascript.md",
+    "2023/2023.2/GR1",
+    "2023/2023.2/Untitled 3.md",
+    "2023/2023.2/Kinh tế chính trị/lmskttt1.pdf",
+    "2023/2023.2/UIUX/Bài giảng/UIUX02 Con nguoi va may tinh.pdf",
+    "2023/2023.2/UIUX/Notes/Buổi 2  _ Con người và máy tính trong hệ tương tác.md",
+    "Untitled.canvas",
+    "2024-03-08.md",
+    "2023/2023.2/PTPMITSS/Slide English/03-RequirementModelingWithUC.pdf",
+    "2023/2023.2/Kinh tế chính trị/Note.md",
+    "2023/2023.2/ITNihongo2/Tuần 2..md",
+    "2023/2023.2/PTPMITSS/Note/Danh sách bài tập.md",
+    "2023/2023.2/PTPMITSS/Note/Buổi 3. Mô hình hóa yêu cầu.md",
+    "2023/2023.2/Kĩ thuật phần mềm/Note/Tuần 3 . Phương pháp Agile.md",
+    "2023/2023.2/Kĩ thuật phần mềm/Note/Tuần 2.md",
+    "2023/2023.2/CNWeb/Note/Javascript/Untitled.md",
+    "2023/2023.2/CNWeb/Untitled 1.md",
+    "2023/2023.2/CNWeb/Untitled.md",
+    "2023/2023.2/Untitled 2.md"
+  ]
+}
