@@ -1,0 +1,2 @@
+https://www.dcode.fr/lagrange-interpolating-polynomial
+https://keisan.casio.com/exec/system/1222997077

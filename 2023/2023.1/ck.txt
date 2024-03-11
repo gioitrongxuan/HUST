@@ -1,0 +1,8 @@
+143578 IT3103 Lập trình hướng đối tượng Việt Nhật K66 4,5 + Việt Pháp K66 - S T21 Thứ hai 22.01.2024 kíp 4 Phòng máy TTMT 
+143570 IT4593 Nhập môn Kỹ thuật truyền thông Việt Nhật 5,6 K66 + Việt Pháp K67 - S T21 Thứ bảy 27.01.2024 Kíp 2 Phòng máy TTMT 
+143573 IT3070 Nguyên lý hệ điều hành Việt Nhật 1,2,3 K66 - C T20 Thứ sáu 19.01.2024 Kíp 3,4 Phòng máy TTMT 
+143589 JP2126 Tiếng Nhật 5 Việt Nhật 3,4,5 - K66 - 1 - S T20 Thứ tư 17.01.2024 8h30-11h30 D9-406 
+146249 ED3220 Kỹ năng mềm (Blend)-Toàn trường-K65CNhóm 1 AB T21 Thứ năm 25.01.2024Kíp 4 D5-105
+143583 JP3110 Tiếng Nhật chuyên ngành 1 Việt Nhật 4,5 - K66 - C T21 Thứ ba 23.01.2024 Kíp 2 D9-406 
+143571 IT3170 Thuật toán ứng dụng Việt Nhật 1,2 K66 - S T21 Thứ năm 25.01.2024 Kíp 5 Phòng máy TTMT 
+143575 IT3080 Mạng máy tính Việt Nhật 1,2,3 K66 - S T22 Thứ hai 29.01.2024 Kíp 4,5 Phòng máy TTMT

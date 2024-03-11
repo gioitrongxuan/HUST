@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <div class="signup-form">
+        <div style="padding:16px;">
+            <div class="signup">Sign Up</div>
+            <div class="note">It's quick and easy.</div>
+        </div>
+        <div class="line"></div>
+        <div  style="padding:16px;">
+
+            <div class = "full-name">
+                <div class ="text-input" id="firstName" >
+                    <input class = "inputtext" type="text" placeholder="First name">
+                    <i id = "firstName-error"></i>
+                </div>
+                <div class ="text-input" id="surname" >
+                    <input class = "inputtext" type="text" placeholder="Surname">
+                    <i id = "surname-error"></i>
+                </div>
+            </div>
+            <div style="display: block;">
+                <div class ="text-input" id="phoneEmail" >
+                    <input class = "inputtext" type="text"  placeholder="Mobile number or email address">
+                    <i id = "phoneEmail-error"></i>
+                </div>
+                <div class ="text-input " id="newPass" >
+                    <input class = "inputtext" type="text"  placeholder="New Password">
+                    <i id = "pass-error"></i>
+                </div>
+            </div>
+            <br>
+            <div>
+                <div>
+                    <div class="note">
+                        Date of Birth
+                        <a href="" title="Click for more information" role="button"> 
+                            <i class="note-icon"></i>
+                        </a>
+                    </div>
+                </div>
+               
+                <div class="date-of-birth">
+                    <!-- day -->
+                    <select class="text-input" name="day" id="day"></select>
+                    <!-- month -->
+                    <select class="text-input" name="month" id="month" ></select>
+                    <!-- year -->
+                    <select class="text-input" name="year" id="year"></select>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <div class="note">
+                        Gender  
+                        <a href="" title="Click for more information" role="button"> 
+                            <i class="note-icon"></i>
+                        </a>
+                    </div>
+                </div>
+                
+                <span class="gender">
+                    <span class="text-input">
+                        <label>Female</label>
+                        <input type="radio" name="sex" value = "1"  id ="female" ></input>
+                    </span>
+                    <span class="text-input">
+                        <label>Male</label>
+                        <input type="radio" name="sex" value = "2" id="male"></input>
+                    </span>
+                    <span class="text-input" >
+                        <label>Custom</label>
+                        <input type="radio" name="sex" value = "3" id="custom"></input>
+                    </span>
+                </span>
+            </div>
+            <div id="customGender" style="display: none;" >
+                <div>
+                    <select class="text-input" name="user-pronoun" >
+                        <option value="0" disabled ="disabled" selected="selected">Select your pronoun</option>
+                        <option value="1">She:"Wish her a happy birthday</option>
+                        <option value="2">He:"Wish him a happy birthday</option>
+                        <option value="3">They:"Wish them a happy birthday</option>
+                    </select>
+                </div>
+                <div class="note">
+                    Your pronoun is visible to everyone.
+                </div>
+                <div>
+                    <input type="text" class ="text-input" id="customGender" placeholder="Gender (optional)">
+                </div>
+            </div>
+        <div class="note">
+            <p>People who use our service may have uploaded your contact information to Facebook. <a href=""> Learn more.</a></p>
+        </div>
+        <div>
+
+        </div>
+        <div class = "note">
+            <p>By clicking Sign Up, you agree to our <a href="">Terms</a>, <a href="">Data Policy</a> and <a href="">Cookie Policy</a>. You may receive SMS notifications from us and can opt out at any time.</p>
+        </div>
+            <button onclick="register()" class = "sign-up-button">Sign Up</button>
+        </div>
+    </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

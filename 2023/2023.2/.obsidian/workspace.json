@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "98a23c5a4a1974e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8155e35ea2b8375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eed33f83bef15de7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Toeic/Toeic ngữ pháp căn bản/Động từ/Section 1 _ Các loại động từ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "692eea8664de2879",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UIUX/Bài giảng/UIUX02 Con nguoi va may tinh.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fbdf7e9a67f3e60",
+    "type": "split",
+    "children": [
+      {
+        "id": "2057a81e239737b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "739764a6c4b00507",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34b2fd8cc9e81052",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "441f709c69a380b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5026054382324
+  },
+  "right": {
+    "id": "5e168e4d868a28a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "341b51dd9f37bca6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c763ab3a1b7be3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Toeic/Toeic ngữ pháp căn bản/Động từ/Section 1 _ Các loại động từ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4022555bb1be39ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Toeic/Toeic ngữ pháp căn bản/Động từ/Section 1 _ Các loại động từ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1dd01c07dcff96f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9c5308fa8242a45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Toeic/Toeic ngữ pháp căn bản/Động từ/Section 1 _ Các loại động từ.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Copilot Chat": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "eed33f83bef15de7",
+  "lastOpenFiles": [
+    "Pasted image 20240303100344.png",
+    "Toeic/Toeic ngữ pháp căn bản/Danh Từ/Section 2 _ Danh từ đếm được và danh từ không đếm được.md",
+    "Toeic/Toeic ngữ pháp căn bản/Động từ/Section 1 _ Các loại động từ.md",
+    "Toeic/Toeic ngữ pháp căn bản/Động từ",
+    "Toeic/Toeic ngữ pháp căn bản/Danh Từ/Section 1 _ Các loại danh từ.md",
+    "Toeic/Toeic ngữ pháp căn bản/Danh Từ/Section 4_Hạn định từ.md",
+    "Toeic/Toeic ngữ pháp căn bản/Danh Từ",
+    "Toeic/Toeic ngữ pháp căn bản/Danh từ.md",
+    "Kĩ thuật phần mềm/Note/Tuần 2.md",
+    "UIUX/Notes/Buổi 2  _ Con người và máy tính trong hệ tương tác.md",
+    "UIUX/Bài giảng/UIUX02 Con nguoi va may tinh.pdf",
+    "PTPMITSS/Slide Vietnamese Version/02-Mo hinh hoa yeu cau voi Usse case.pdf",
+    "UIUX/Bài giảng/UIUX01 Gioi thieu chung.pdf",
+    "PTPMITSS/Slide English/03-RequirementModelingWithUC.pdf",
+    "Pasted image 20240301125809.png",
+    "UIUX/Notes/Buổi 1 Giới thiệu.md",
+    "UIUX/Notes/Untitled Kanban.md",
+    "Toeic/Toeic ngữ pháp căn bản/Danh Từ/Section 3_ Sở hữu cách.md",
+    "Pasted image 20240301090512.png",
+    "Pasted image 20240301085426.png",
+    "ITNihongo2/02 9.1 情報セキュリティ(1)_学生公開用.pdf",
+    "ITNihongo2/02 9.1 情報セキュリティ(1)_事前学習.pdf",
+    "PTPMITSS/Note/Buổi 2. Bài 3 Mô hình hóa yêu cầu phần mềm với biểu đồ uc.md",
+    "PTPMITSS/Buoi2 ATM.asta",
+    "PTPMITSS/JOMT6889666994078753382.jmt",
+    "Pasted image 20240229095325.png",
+    "Pasted image 20240229094135.png",
+    "Pasted image 20240229091954.png",
+    "PTPMITSS/Note/Buổi 2. Quy trình PTPM.md",
+    "Toeic/Toeic ngữ pháp căn bản/New Word.md",
+    "PTPMITSS/Note/BTL.md",
+    "PTPMITSS/Note/Buổi 1..md",
+    "Pasted image 20240228212314.png",
+    "Pasted image 20240228212302.png",
+    "Pasted image 20240228210528.png",
+    "Pasted image 20240226094420.png",
+    "Tư duy công nghệ và thiết kế kỹ thuật/Làm việc nhóm.md",
+    "NMTTNT/Notes/Bài tập lớn.md",
+    "NMTTNT/Notes/W2.Tác tử.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Excalidraw/Drawing 2024-02-24 14.03.23.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-24 14.02.57.excalidraw.md",
+    "UIUX/Notes/Drawing 2024-02-23 15.43.30.excalidraw.md",
+    "2024-02-23.md",
+    "PTPMITSS/Slide Vietnamese Version/Untitled.md"
+  ]
+}
